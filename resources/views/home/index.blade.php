@@ -67,7 +67,7 @@
                                 <li class="w-icon active">
                                     <a href="#"><i class="icon_bag_alt"></i></a>
                                 </li>
-                                <li class="quick-view"><a href="{{route('detail',$laundry->slug_laundry)}}">+ Quick View</a></li>
+                                <li class="quick-view"><a href="{{route('detail',$laundry->slug_laundry)}}">Detail</a></li>
                             </ul>
                         </div>
                         <div class="pi-text">
